@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\Till\Till\bin\Debug\netcoreapp3.0\Till.exe
+C:\Users\Chris\source\repos\Till\Till\bin\Debug\netcoreapp3.0\Till.deps.json
+C:\Users\Chris\source\repos\Till\Till\bin\Debug\netcoreapp3.0\Till.runtimeconfig.json
+C:\Users\Chris\source\repos\Till\Till\bin\Debug\netcoreapp3.0\Till.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\Till\Till\bin\Debug\netcoreapp3.0\Till.dll
+C:\Users\Chris\source\repos\Till\Till\bin\Debug\netcoreapp3.0\Till.pdb
+C:\Users\Chris\source\repos\Till\Till\obj\Debug\netcoreapp3.0\Till.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\Till\Till\obj\Debug\netcoreapp3.0\Till.AssemblyInfo.cs
+C:\Users\Chris\source\repos\Till\Till\obj\Debug\netcoreapp3.0\Till.dll
+C:\Users\Chris\source\repos\Till\Till\obj\Debug\netcoreapp3.0\Till.pdb
+C:\Users\Chris\source\repos\Till\Till\obj\Debug\netcoreapp3.0\Till.csprojAssemblyReference.cache
